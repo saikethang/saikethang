@@ -8,10 +8,8 @@
 ---
 
 ### 🧑‍🎓 About Me
-- 🎓 B.Tech in Data Science (2022–2026), Raghu Engineering College, Visakhapatnam  
-- 🧠 Interested in AI, Machine Learning, Web Development, and Data Engineering  
+- 🎓 B.Tech in Data Science (2022–2026), Raghu Engineering College, Visakhapatnam   
 - 🏆 CS50 Certified in Python, SQL & Computer Science  
-- ☁️ Completed AWS Data Engineering Virtual Internship  
 - ✍️ Always learning and building cool stuff!
 
 ---
