@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kethan Gorle</h1>
-<h3 align="center">Aspiring Data Scientist | B.Tech in Data Science @ Raghu Engineering College (2022–2026) | Open to Full-Time Roles</h3>
+<h3 align="center">B.Tech in CSE(Data Science) @ Raghu Engineering College (2022–2026) | Open to Full-Time Roles</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saikethang&label=Profile%20views&color=0e75b6&style=flat" alt="saikethang" />
