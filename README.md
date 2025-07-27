@@ -17,7 +17,7 @@
 ### 🧰 Skills
 
 #### 👨‍💻 Programming Languages:
-- Python, JavaScript
+- Python, JavaScript, HTML, CSS
 
 #### 💻 Frameworks / Libraries:
 - React.js, Node.js, Bootstrap
