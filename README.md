@@ -20,13 +20,13 @@
 - Python, JavaScript, HTML, CSS
 
 #### 💻 Frameworks / Libraries:
-- React.js, Node.js, Bootstrap
+- Bootstrap
 
 #### 🛠️ Tools & Platforms:
-- Git, GitHub, VS Code, AWS
+- Git, GitHub, AWS
 
 #### 🗃️ Databases:
-- MySQL, SQLite
+- SQLite
 
 ---
 
